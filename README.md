@@ -1,6 +1,8 @@
 # fashion-VTON-Recommendation-system
 ## Python Version :- 3.10.9 (base conda)
-## Steps :-
+# Steps :-
+## Download project from here: https://drive.google.com/file/d/1FVcuvmIXEYN3uwUmmcIYvj0GHCzHjIJW/view?usp=sharing
+and unzip it
 #
 ## Library Installation
 
